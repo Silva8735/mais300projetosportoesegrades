@@ -1,0 +1,7 @@
+{
+  "name": "300 Projetos de Portões e Grades para Fazer e Vender",
+  "description": "Tenha 300 projetos reais de serralheria residencial para consultar, fazer e vender — com tabela de material e mão de obra para ajudar você a cobrar certo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
